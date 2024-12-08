@@ -1,6 +1,6 @@
-# DIGIcare Backend
+# Digicare Backend
 
-DIGIcare Backend is a Django-powered server application that provides APIs and functionalities for managing healthcare-related operations, including patient records, appointments, and doctor management. The backend is designed for scalability, reliability, and easy integration with front-end systems.
+Digicare Backend is a Django-powered server application that provides APIs and functionalities for managing healthcare-related operations, including patient records, appointments, and doctor management. The backend is designed for scalability, reliability, and easy integration with front-end systems.
 
 ---
 
